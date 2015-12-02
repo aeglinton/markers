@@ -1,45 +1,40 @@
-{
-    "type": "FeatureCollection",
-    "features": [
-
-        {
-            "type": "Feature",
-            "properties": {
-                "Name": "Gimme! Coffee",
-                "BusType": "Cafe",
-                "Description": "Gimme espresso bars are found in New York City and Upstate New York."
-
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-76.499491, 42.444508]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "Name": "ZevRoss Spatial Analysis",
-                "BusType": "Data analysis and mapping",
-                "Description": "Specializes in spatial and environmental data analysis and statistics, geographic information systems and custom data design."
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-76.4958259, 42.440258]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "Name": "Argos Inn",
-                "BusType": "Inn and Bar",
-                "Description": "Inn and cocktail bar in a beautifully restored historic mansion."
-
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-76.492543, 42.439401]
-            }
-        }
-
-
-    ]
-
-}
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{
+    "place":"Germany/Austria","activity":"Vacation","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[47.6308,11.9888]}}},
+{"type":"Feature","properties":{
+    "place":"Cambridge, MD","activity":"School","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[38.5882,-76.1317]}}},
+{"type":"Feature","properties":{
+    "place":"Windom, MN","activity":"Work","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[43.7318,-95.0670]}}},
+{"type":"Feature","properties":{
+    "place":"NRCS","activity":"Work","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[44.6300,-93.1481]}}},
+{"type":"Feature","properties":{
+    "place":"Salt Lake City, UT","activity":"School","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[40.752480,-111.891708]}}},
+{"type":"Feature","properties":{
+    "place":"Gustavus Adolphus College","activity":"School","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[44.322049,-93.972678]}}},
+{"type":"Feature","properties":{
+    "place":"University of Minnesota","activity":"School","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[44.971823,-93.243324]}}},
+{"type":"Feature","properties":{
+    "place":"LT Media Lab","activity":"Work","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[44.983876,-93.182607]}}},
+{"type":"Feature","properties":{
+    "place":"Umfreville Lake, Canada","activity":"Vacation","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[50.289891,-94.827339]}}},
+{"type":"Feature","properties":{
+    "place":"Dryberry Lake, Canada","activity":"Vacation","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[49.517193,-93.795172]}}},
+{"type":"Feature","properties":{
+    "place":"Big Bend National Park","activity":"Vacation","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[29.275951,-103.302262]}}},
+{"type":"Feature","properties":{
+    "place":"Ixtapa, Mexico","activity":"Vacation","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[17.661671,-101.606008]}}},
+{"type":"Feature","properties":{
+    "place":"Carlsbad Cavern","activity":"Vacation","description":null,"url":null,"geometry":{
+        "type":"Point","coordinates":[32.177017,-104.441072]}}},]}

@@ -7,7 +7,7 @@
     "place":"Germany/Austria",
     "activity":"Vacation/School",
     "description":null,
-    "url":"http://i.huffpost.com/gen/1492252/original.jpg",
+    "url":"http://i.huffpost.com/gen/1492252/original.jpg"
     },
     "geometry":{
         "type":"Point",
@@ -19,7 +19,7 @@
     "place":"Horn Point Laboratory",
     "activity":"School/Work",
     "description":null,
-    "url":"http://www.mdsg.umd.edu/sites/default/files/styles/fixed-width-320/public/reu/2011Eglinton.jpg?itok=r471MbyK"
+    "url":null
     },
     "geometry":{
         "type":"Point",
@@ -31,7 +31,7 @@
     "place":"Conservation Corps",
     "activity":"Work",
     "description":null,
-    "url":"http://static1.squarespace.com/static/5154ba3ae4b0feb1eb188610/t/51f91dcee4b080ed4b424ce1/1444417859346/?format=1500w"
+    "url":null
     },
     "geometry":{
         "type":"Point",
@@ -43,7 +43,7 @@
     "place":"NRCS",
     "activity":"Work",
     "description":null,
-    "url":"http://sdcorn.s3.amazonaws.com/legacy-content/sdcornblog/uploads/2013/08/NRCS-logo.jpg"
+    "url":null
     },
     "geometry":{
         "type":"Point",
@@ -55,7 +55,7 @@
     "place":"Salt Lake City, UT",
     "activity":"School",
     "description":null,
-    "url":"http://nationalwood.com/wp-content/uploads/2013/08/salt-lake-city-downtown-2.jpg"
+    "url":null
     },
     "geometry":{
         "type":"Point",
@@ -67,7 +67,7 @@
     "place":"Gustavus Adolphus College",
     "activity":"School",
     "description":null,
-    "url":"http://dailycaller.com/wp-content/uploads/2013/01/Gustavus-Adolphus-College-Facebook-e1357633454991.jpg"
+    "url":null
     },
     "geometry":{
         "type":"Point",
@@ -79,7 +79,7 @@
     "place":"University of Minnesota",
     "activity":"School",
     "description":null,
-    "url":"http://media.graytvinc.com/images/University+of+Minnesota.jpg"
+    "url":null
     },
     "geometry":{
         "type":"Point",
@@ -91,7 +91,7 @@
     "place":"LT Media Lab",
     "activity":"Work",
     "description":null,
-    "url":"https://pbs.twimg.com/profile_images/1262093369/logo_nofliptext.jpg"
+    "url":null
     },
     "geometry":{
         "type":"Point",
@@ -103,7 +103,7 @@
     "place":"Umfreville Lake, Canada",
     "activity":"Vacation",
     "description":null,
-    "url":"http://www.canmaps.com/topomaps/nts50/toporama/orthoimages/052l07.jpg"
+    "url":null
     },
     "geometry":{
         "type":"Point",
@@ -115,7 +115,7 @@
     "place":"Dryberry Lake, Canada",
     "activity":"Vacation",
     "description":null,
-    "url":"http://mw2.google.com/mw-panoramio/photos/small/32125869.jpg"
+    "url":null
     },
     "geometry":{
         "type":"Point",
@@ -127,7 +127,7 @@
     "place":"Big Bend National Park",
     "activity":"Vacation/School",
     "description":null,
-    "url":"http://images.nationalgeographic.com/wpf/media-live/photos/000/655/overrides/rio-grande-river-big-bend-national-park_65547_600x450.jpg"
+    "url":null
     },
     "geometry":{
         "type":"Point",
@@ -139,7 +139,7 @@
     "place":"Ixtapa/Zihuatanejo, Mexico",
     "activity":"Vacation",
     "description":null,
-    "url":"http://nolabelsnolies.com/wp-content/uploads/2013/04/shawshankredemption.jpg"
+    "url":null
     },
     "geometry":{
         "type":"Point",
@@ -151,7 +151,7 @@
     "place":"Carlsbad Cavern",
     "activity":"Vacation/School",
     "description":null,
-    "url":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Carlsbad_Interior_Formations.jpg"
+    "url":null
     },
     "geometry":{
         "type":"Point",

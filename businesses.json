@@ -6,7 +6,7 @@
     "properties":{
     "place":"Germany/Austria",
     "activity":"Vacation/School",
-    "description":null,
+    "description":"I went to Germany and Austria on a school trip my junior year of high school for orchestra. We performed at a few locations, but mostly toured places and saw shows.",
     "url":"http://www.baviere-quebec.org/imperia/md/quebec/tourismus/neuschwanstein_bild.jpeg"
     },
     "geometry":{
@@ -18,7 +18,7 @@
             "properties":{
     "place":"Horn Point Laboratory",
     "activity":"School/Work",
-    "description":null,
+    "description":"The summer after my junior year in my undergrad I was accepted to a REU program in Maryland. I was able to experience a lot of different things, like a day spent on a research boat in the Chesapeake Bay, but mostly I worked a research project about deposition within a marsh.",
     "url":"http://www.mdsg.umd.edu/sites/default/files/styles/fixed-width-320/public/reu/2011Eglinton.jpg?itok=r471MbyK"
     },
     "geometry":{
@@ -30,7 +30,7 @@
             "properties":{
     "place":"Conservation Corps",
     "activity":"Work",
-    "description":null,
+    "description":"I did a 10 month service with Conservation Corps MN & IA. I was located in Kilen Woods State Park in southwestern Minnesota. We spent most of our time cutting Buckthorn, but were able to spend a few weeks doing prescribed burns!",
     "url":"http://static1.squarespace.com/static/5154ba3ae4b0feb1eb188610/t/51f91dcee4b080ed4b424ce1/1444417859346/?format=1500w"
     },
     "geometry":{
@@ -42,7 +42,7 @@
             "properties":{
     "place":"NRCS",
     "activity":"Work",
-    "description":null,
+    "description":"I worked for NRCS for two years, and it was a great experience. I was able to look more closely at the work they do and see how GIS is used in a real work environment.",
     "url":"http://sdcorn.s3.amazonaws.com/legacy-content/sdcornblog/uploads/2013/08/NRCS-logo.jpg"
     },
     "geometry":{
@@ -54,7 +54,7 @@
             "properties":{
     "place":"Salt Lake City, UT",
     "activity":"School",
-    "description":null,
+    "description":"I attended the Ocean Sciences Conference in 2012 and presented my senior thesis as a poster. This was the first academic poster I made.",
     "url":"http://nationalwood.com/wp-content/uploads/2013/08/salt-lake-city-downtown-2.jpg"
     },
     "geometry":{
@@ -66,7 +66,7 @@
             "properties":{
     "place":"Gustavus Adolphus College",
     "activity":"School",
-    "description":null,
+    "description":"This is where I received my Bachelors degree in Geology. When I wasn’t studying rocks I ran on the Cross Country, Indoor, and Outdoor Track teams! I loved my time here and still keep in touch with most of the people I met.",
     "url":"http://dailycaller.com/wp-content/uploads/2013/01/Gustavus-Adolphus-College-Facebook-e1357633454991.jpg"
     },
     "geometry":{
@@ -78,7 +78,7 @@
             "properties":{
     "place":"University of Minnesota",
     "activity":"School",
-    "description":null,
+    "description":"This is where I earned my Masters of GIS degree. I applied during a time when I didn’t know what I wanted to do, and it is one of the best decisions I have made. I have met some wonderful people I hope to keep in contact with as our career progress, and learned under some amazing professors.",
     "url":"http://tax.umn.edu/assets/img/goldie%20statue.jpg"
     },
     "geometry":{
@@ -90,7 +90,7 @@
             "properties":{
     "place":"LT Media Lab",
     "activity":"Work",
-    "description":null,
+    "description":"I worked for LT Media Lab during my last year at the University of MN, creating curriculum for their EarthXplorers project.",
     "url":"https://pbs.twimg.com/profile_images/1262093369/logo_nofliptext.jpg"
     },
     "geometry":{
@@ -102,7 +102,7 @@
             "properties":{
     "place":"Umfreville Lake, Canada",
     "activity":"Vacation",
-    "description":null,
+    "description":"I go fishing here with my dad and my sister. I’m probably not a good fisher, but you can’t tell when you are fishing this lake.",
     "url":"http://www.yellowbirdproducts.com/wp-content/uploads/2015/04/Pike-Fished-with-Doctor-Spoons-Umfreville-Lake-in-Minaki-Ontario-16.jpg"
     },
     "geometry":{
@@ -114,7 +114,7 @@
             "properties":{
     "place":"Dryberry Lake, Canada",
     "activity":"Vacation",
-    "description":null,
+    "description":"This lake is one of the clearest I have seen. You can catch monster Muskie here, but you have to be patient!",
     "url":"http://mw2.google.com/mw-panoramio/photos/small/32125869.jpg"
     },
     "geometry":{
@@ -126,7 +126,7 @@
             "properties":{
     "place":"Big Bend National Park",
     "activity":"Vacation/School",
-    "description":null,
+    "description":"I visited Big Bend on a school trip with other Geology majors. We mostly just hiked around and looked at all the interesting formations. The night sky was amazing!",
     "url":"https://farm5.staticflickr.com/4128/5070102175_b06089cfde_b.jpg"
     },
     "geometry":{
@@ -138,7 +138,7 @@
             "properties":{
     "place":"Ixtapa/Zihuatanejo, Mexico",
     "activity":"Vacation",
-    "description":null,
+    "description":"I came here on vacation with my friends in high school. We mostly just laid on the beach all day. I wouldn’t do that now, but it was so warm!",
     "url":"http://nolabelsnolies.com/wp-content/uploads/2013/04/shawshankredemption.jpg"
     },
     "geometry":{
@@ -150,7 +150,7 @@
             "properties":{
     "place":"Carlsbad Cavern",
     "activity":"Vacation/School",
-    "description":null,
+    "description":"I went to Carlsbad Caverns on my way back from my trip to Big Bend. I had never been in such a large cave before and the experience was definitely worth the extra drive.",
     "url":"http://static.thousandwonders.net/Carlsbad.Caverns.National.Park.original.792.jpg"
     },
     "geometry":{
